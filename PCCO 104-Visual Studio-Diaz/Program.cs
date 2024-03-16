@@ -8,7 +8,7 @@
 
             Console.WriteLine("I am " + name + "And I am" +
                 "using a Visual Studio via github for the " +
-                "first time haha, lmao, xd");
+                "first time haha, lmao, xd. HAHAAh");
             Console.ReadKey();
         }
     }
